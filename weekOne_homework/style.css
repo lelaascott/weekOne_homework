@@ -1,12 +1,9 @@
-p{
-    color: green;
-    font-size: 25px;
-}
+
 
 body{
-    background-color: lightblue;
+    background-color: white;
 }
 
 #special {
-    color: indianred;
+    color: lightsteelblue;
 }
